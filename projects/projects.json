@@ -1,0 +1,112 @@
+[
+  {
+    "name": " Real-Time Chatting Application",
+    "desc": "A Full Stack Realtime Chat Application built using MERN with Socket.io for real-time communication, styled with TailwindCSS and DaisyUI.",
+    "image": "Real-time-chat",
+    "category": "mern",
+    "links": {
+      "view": "https://real-time-chat-application-0.onrender.com",
+      "code": "https://github.com/Akash8174/Real-Time-Chat-Application"
+    }
+  },
+  {
+    "name": " E-Commerce Food Delivery Website",
+    "desc": "DeliveryFood is a full-stack food delivery app with cart, online ordering, and an admin panel for real-time product and order management.",
+    "image": "Food Delivery",
+    "category": "mern",
+    "links": {
+      "view": "https://deliveryfood-0.onrender.com",
+      "code": "https://github.com/Akash8174/deliveryFood"
+    }
+  },
+  {
+    "name": "Blogify- Blogging Platform",
+    "desc": "Server-side blogging app built with Node.js, Express, MongoDB, and EJS, featuring user authentication and file uploads for creating and managing posts.",
+    "image": "Blogging image",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Akash8174/Blogify-Project",
+      "code": "https://github.com/Akash8174/Blogify-Project"
+    }
+  },
+  {
+    "name": "Food-Delivery Web Application",
+    "desc": "Food-Delivery Web Application using HTML, CSS, JavaScript and React",
+    "image": "foodimage",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Akash8174/Food-Delivery-Web-Application",
+      "code": "https://github.com/Akash8174/Food-Delivery-Web-Application"
+    }
+  },
+  {
+    "name": "Weather-Application",
+    "desc": "Weather Application using HTML, CSS, and JavaScript",
+    "image": "weatherimage",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Akash8174/Weather-Application",
+      "code": "https://github.com/Akash8174/Weather-Application"
+    }
+  },
+  {
+    "name": "Clove-Dental-Website",
+    "desc": "Responsive Clove Dental website built with HTML, CSS, and JavaScript, featuring appointment form, testimonials, FAQs, and more.",
+    "image": "clove",
+    "category": "basicweb",
+    "links": {
+      "view": "https://clove-dental-website.netlify.app/",
+      "code": "https://github.com/Akash8174/Clove-Dental-Website"
+    }
+  },
+  {
+    "name": "Currency-Converter ",
+    "desc": "Currency Converter using HTML, CSS, and JavaScript With API",
+    "image": "currency",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Akash8174/Currency-Converter",
+      "code": "https://github.com/Akash8174/Currency-Converter"
+    }
+  },
+  {
+    "name": "URL-Shortener Project",
+    "desc": "A simple URL Shortener built with Node.js, Express.js, and MongoDB.It generates short links using Nanoid/UUID and provides authentication using JWT.",
+    "image": "urlshortener",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Akash8174/Url-Shortener-Project",
+      "code": "https://github.com/Akash8174/Url-Shortener-Project"
+    }
+  },
+  {
+    "name": "CHAT-APP",
+    "desc": "A simple real-time chat application built with Node.js and WebSocket/Socket.io. It allows multiple users to join and chat instantly.",
+    "image": "chatapp",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Akash8174/CHAT-APP",
+      "code": "https://github.com/Akash8174/CHAT-APP"
+    }
+  },
+  {
+    "name": "Mega-Blog-Project",
+    "desc": "A full-featured blogging platform built with ReactJS and Appwrite. Users can create, read, update, and delete blog posts with secure authentication.",
+    "image": "megablog",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Akash8174/Mega-Blog-Project",
+      "code": "https://github.com/Akash8174/Mega-Blog-Project"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": ""
+    }
+  }
+]
